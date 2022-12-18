@@ -4,7 +4,7 @@ import { AnimatePresence } from 'framer-motion';
 import { ThemeModal } from './ThemeModal';
 
 import { MainEventButton, MainLogo, OverviewButton, RoomsButton } from '../../assets';
-import NavigationAvatar from '../../assets/NavigationAvatar.jpg';
+import NavigationAvatar from '../../assets/avatar.jpg';
 import { useEventContext } from '../../contexts/EventContext';
 
 export const Navigation: React.FC = () => {
