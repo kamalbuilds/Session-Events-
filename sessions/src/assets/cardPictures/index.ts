@@ -7,3 +7,4 @@ export { default as Chakras } from './chakras.jpg';
 export { default as Meditating } from './meditating.jpg';
 export { default as Truth } from './truth.jpg';
 export { default as User } from './user.jpg';
+export { default as Card2 } from './Card2.jpg';
