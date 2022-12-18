@@ -79,7 +79,7 @@ export const ChatHeader = (props: ChatHeaderProps) => {
         <HeaderTabItem
           animate={chatType === 'global-ve2'}
           className={`${globalUnread && chatType !== 'global-ve2' ? 'unread' : ''}`}
-          content={'Global'}
+          content={'Room'}
           onClick={handleGlobalClick}
         />
         {selected !== 'overview' && eventName && (
