@@ -2,8 +2,7 @@
 
 Breakout rooms and 1 to 1 sessions
 
-![Screenshot_20221218_171125](https://user-images.githubusercontent.com/95926324/208346027-80738d9d-459d-428f-8f19-56bd9f2a785c.png)
-
+![image](https://user-images.githubusercontent.com/95926324/208346335-3f5e161a-40d7-482c-8603-29c5b940a7de.png)
 
 <h3> We created breakout rooms for our users using Stream API </h3>
 
@@ -13,3 +12,4 @@ The breakout rooms feature on our platform was designed to provide users with th
 To enable real-time chat during these sessions, we utilized the Stream API. The Stream API allows users to communicate with each other in real time, exchanging messages and supporting each other in a way that feels natural and authentic. This helps to create a sense of connection and intimacy between users, even when they are not in the same physical location.
 
 Overall, the breakout rooms feature and the use of the Stream API have been instrumental in helping our users find the support and guidance they need to navigate their mental health challenges and build healthy, fulfilling lives.
+
